@@ -1,7 +1,7 @@
 Sales Data Analysis
 
 
-An Exploratory Analysis of sales data with visualizations using Python and the folowing libraries: 
+An Exploratory Analysis of sales data with visualizations using Python and the following libraries: 
 
 Pandas, numpy, seaborn and matplotlib.
 
